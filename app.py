@@ -1,6 +1,6 @@
 import antigravity
 
-SEED=1d72b744-c52b-4583-bb9b-592689793e9f
+apikey=key-fa561d9e00edd85ce58dc857160add3e
 
 def main():
     antigravity.fly()
